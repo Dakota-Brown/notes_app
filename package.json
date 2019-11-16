@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Dakota-Brown/notes_app#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "validator": "^12.0.0"
   }
 }
